@@ -50,10 +50,3 @@ The purpose of this project is to practice and demonstrate core front-end develo
 The website will open in your browser.
 
 
-
-(Add screenshots if you want later — optional but good for resume)
-
----
-
-If you want, I can also tell you **how to add screenshots inside GitHub README** (that makes your profile look 10x professional).
-
